@@ -32,6 +32,7 @@ I denne opgave skal du vælge imellem to overordnede måder:
 
 ## Husk 
 ... at hverken **Atomic design** eller **SMACSS** har svaret på alle use-cases, men er ment som retningslinjer for hvordan man organiserer sin CSS.
+
 ... at oprette en branch til dit arbejde. 
 
 ## Aflevering
