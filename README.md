@@ -28,7 +28,7 @@ I denne opgave skal du vælge imellem to overordnede måder:
 	- Base rules
  	- Layout rules
   	- Module rules
-  - Implementer denne nye inddeling på din hjemmeside.
+- Implementer denne nye inddeling på din hjemmeside.
 
 ## Husk 
 ... at hverken **Atomic design** eller **SMACSS** har svaret på alle use-cases, men er ment som retningslinjer for hvordan man organiserer sin CSS.
